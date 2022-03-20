@@ -6,3 +6,19 @@
 - The logos I traced.  
 
 ![](/assets/singlelogotraced.svg)![](/assets/tracingpractice2.png)![](/assets/traing_practice.png)
+- I used shape tools to make a moodboard . 9 logos in it.
+
+![](/assets/moodboard.png)
+## March 10,2022 
+- I learnt -SVG today.
+    - what is svg?
+        - SVG stands for Scalable Vector Graphics
+        - SVG is used to define vector-based graphics for the Web
+        - SVG defines the graphics in XML format
+        - Every element and every attribute in SVG files can be animated
+        - SVG is a W3C recommendation
+        - SVG integrates with other W3C standards such as the DOM and XSL
+- We can style the svg with a style sheet.
+- This is the logo I designed in figma. Then exporting it as a svg. Finally styled with style sheet.
+
+![](/assets/colorlogo.png)
