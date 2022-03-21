@@ -63,3 +63,11 @@
 
 
 ![](/assets/prototype.png)
+
+
+
+### reference links 
+- https://www.svgator.com/tutorials
+- https://designcode.io/figma-handbook-exporting-css-codes
+- https://www.uiprep.com/blog/ultimate-guide-to-prototyping-in-figma
+- https://uxdesign.cc/how-to-create-and-use-components-in-figma-for-beginners-9f49e21b6968
