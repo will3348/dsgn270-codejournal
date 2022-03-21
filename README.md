@@ -37,6 +37,8 @@
 - I installed couple good plugins including stylelist, css export, figma tailwind.
 - I created c0l0r scheme, typography, and my own components(buttons, cards).
 
+- The reason doing that is preset some components. Then I can reuse them in future. fast and easy.
+
 ![](/assets/library.png)
 
 
@@ -44,7 +46,7 @@
 
 ### Figma’s prototyping features allow you to create interactive flows that explore how a user may interact with your designs.
 
-### Prototypes are a fantastic way to:
+### why use prototype:
 
 - Preview interactions and user flows
 - Share and iterate on ideas
