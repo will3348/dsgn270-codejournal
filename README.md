@@ -58,3 +58,6 @@
 - Then set the details in that page.
 - also, you can set the animation in Animation selector. 
 - On top right, a play button beside SHARE, you can preview what you set.
+
+
+![](/assets/prototype.png)
